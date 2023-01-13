@@ -5,4 +5,4 @@ We provide access to educational resources to communities with limited or no int
 ## Soma Portal  
 
 Draft of current plan
-![Plan](./images/plan.jpeg)
+![Plan](./profile/images/plan.jpeg)
