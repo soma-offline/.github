@@ -4,12 +4,12 @@ We provide access to educational resources to communities with limited or no int
 
 ##### Current Project
 
-- New Soma's website + Online Platform(V0.2): [somaoffline.org](http://somaoffline.org/)
+- New Soma's website + Online Platform(V0.2): [somaoffline.org](http://www.somaoffline.org/)
 
 ##### Previous Projects
 *For sites containing demos of our offline platform, note that  the content has been omitted from the online deployment because of their big size.*
 
-- New Soma's website (V0.1): [somav1.vercel.app](https://somav1.vercel.app/)
+- New Soma's website (V0.1): [v1.somaoffline.org](http://v1.somaoffline.org/)
 - Soma's Offline Platform (V0.1): [somaplatformv1.netlify.app](https://somaplatformv1.netlify.app/)
 - Soma's Website: [somaoffline.com](https://www.somaoffline.com/)
 - Tucode Coding Clubs: [tucode-dev.netlify.app](https://tucode-dev.netlify.app/)
